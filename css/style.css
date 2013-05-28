@@ -114,15 +114,13 @@ body {
     border-radius: 7px;
 }
 
-.tab:first-child             { z-index: 4; }
-.tab:first-child + div       { z-index: 3; }
-.tab:first-child + div + div { z-index: 2; }
+.tab:first-child             { z-index: 3; }
+.tab:first-child + div       { z-index: 2; }
 .tab:last-child              { z-index: 1; }
 
 .tab .slide-violet { background-color: rgba(99,111,137,0.7); }
 .tab .slide-green  { background-color: rgba(135,174,94,0.7); }
 .tab .slide-orange { background-color: rgba(188,116,57,0.7); }
-.tab .slide-blue   { background-color: rgba(90,151,144,0.7); }
 
 #menu header {
     display: block;
