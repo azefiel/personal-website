@@ -2,6 +2,14 @@
  *   style.css   *
  *****************/
 
+@font-face {
+    font-family: 'LilyUPC';
+    src:    url('../fonts/upcll.eot') format('eot'),
+            url('../fonts/upcll.woff') format('woff'),
+            url('../fonts/upcll.ttf') format('truetype'),
+            url('../fonts/upcll.svg#webfontdSscXrwb') format('svg');
+}
+
 body {
     width: 100%;
     margin: -330px auto 0;

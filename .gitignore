@@ -5,4 +5,5 @@
 *.sublime-project
 *.sublime-workspace
 images/
-doc/
+docs/
+fonts/
